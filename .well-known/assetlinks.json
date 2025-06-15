@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.katyayaniorganics.partner.deep_linking",
+      "sha256_cert_fingerprints": [
+        "6D:51:C0:6E:14:72:AC:75:C2:5C:D5:60:36:81:9D:B0:D1:FC:CD:6C:CC:E9:93:CB:29:EE:03:B5:02:71:FD:0C"
+      ]
+    }
+  }
+]
